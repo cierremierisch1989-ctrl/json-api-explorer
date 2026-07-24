@@ -49,6 +49,3 @@ postForm.addEventListener("submit", function (event) {
     });
 });
 //task3
-const searchInput = document.getElementById("searchInput");
-const searchButton = document.getElementById("searchButton");
-const searchResultsDiv = document.getElementById("searchResults");
